@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/abavieira/atividadedevops3/issues"
   },
-  "homepage": "https://github.com/abavieira/atividadedevops3#readme"
+  "homepage": "https://github.com/abavieira/atividadedevops3#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
 }
